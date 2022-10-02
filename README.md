@@ -60,4 +60,4 @@
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
 </div>
 
-![snake gif](https://github.com/hernannes/hernannes/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hernannes/hernannes/blob/output/github-contribution-grid-snake.svg)
