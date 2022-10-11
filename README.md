@@ -11,7 +11,6 @@
   <img width="60px" src="https://raw.githubusercontent.com/hernannes/hernannes.github.io/main/icones/icon_jquery.png"/>
   <img width="60px" src="https://raw.githubusercontent.com/hernannes/hernannes.github.io/main/icones/icon_php.png"/>
   <img width="60px" src="https://raw.githubusercontent.com/hernannes/hernannes.github.io/main/icones/icon_python.png"/>
-  <img width="60px" src="https://raw.githubusercontent.com/hernannes/hernannes.github.io/main/icones/icon_csharp.png"/>
   <img width="60px" src="https://raw.githubusercontent.com/hernannes/hernannes.github.io/main/icones/icon_sql.png"/>
   <img width="60px" src="https://raw.githubusercontent.com/hernannes/hernannes.github.io/main/icones/icon_mysql.png"/>
   
