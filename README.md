@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=J%C3%BAnior%20Cordeiro&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=16" alt="Banner"/>
 
-🌐 **English** · [Português (BR)](README.pt-BR.md)
-
 <a href="https://github.com/hernannes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-stack+developer+%7C+PHP+%C2%B7+Python+%C2%B7+C%23+%C2%B7+C%2B%2B;Computer+Vision+and+Machine+Learning;Building+products+from+scratch+to+deploy" alt="Typing SVG"/>
 </a>
@@ -100,7 +98,7 @@ I am a developer passionate about technology, focused on **Computer Vision** and
 
 </div>
 
-<details>
+<details open>
 <summary><b>🔎 What I am exploring now</b></summary>
 <br>
 
@@ -138,7 +136,7 @@ Each game below is generated automatically from my real contribution graph. Pick
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>👻 Pac-Man</b></summary>
 <br>
 <div align="center">
@@ -152,7 +150,7 @@ Each game below is generated automatically from my real contribution graph. Pick
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>🧱 Breakout</b></summary>
 <br>
 <div align="center">
@@ -166,7 +164,7 @@ Each game below is generated automatically from my real contribution graph. Pick
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>🚀 Galaga</b></summary>
 <br>
 <div align="center">
@@ -180,7 +178,7 @@ Each game below is generated automatically from my real contribution graph. Pick
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>💣 Bomberman</b></summary>
 <br>
 <div align="center">
