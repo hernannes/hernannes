@@ -34,31 +34,26 @@ I am a developer passionate about technology, focused on **Computer Vision** and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://easytrack-studio.store">EasyTrack</a></h3>
-      Suite of real-time analysis modules, with a launcher, <b>C#/.NET</b> hosts, a <b>C++</b> native core for low latency and a <b>Laravel</b> backend.
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,laravel&theme=dark" />
-    </td>
-    <td width="50%" valign="top">
       <h3>📈 <a href="https://mir4-tracker.com">MIR4 Chronicle</a></h3>
       NFT marketplace and on-chain tracker for the MIR4 community: advanced filters, sales history and wallet auditing on the WEMIX3.0 blockchain.
       <br><br>
       <img src="https://skillicons.dev/icons?i=react,vite,nodejs,js&theme=dark" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧭 <a href="https://rootmap.dev">RootMap</a></h3>
       Development and learning platform for technology.
       <br><br>
       <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql&theme=dark" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛠️ More work</h3>
       Management systems, APIs and tools in PHP and Python.
       <br><br>
       <img src="https://skillicons.dev/icons?i=php,py,fastapi,opencv&theme=dark" />
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
